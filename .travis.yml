@@ -1,0 +1,4 @@
+language: csharp
+solution: NPILookup2010/NPILookup2010.sln
+notifications:
+  email: false
